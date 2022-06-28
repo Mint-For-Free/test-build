@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="32" height="32" viewBox="0 0 32 32">
+  <defs>
+    <clipPath id="clip-arrow_corner">
+      <rect width="32" height="32"/>
+    </clipPath>
+  </defs>
+  <g id="arrow_corner" clip-path="url(#clip-arrow_corner)">
+    <g id="Group_763" data-name="Group 763" transform="translate(0.5 1.5)">
+      <path id="Line_3" data-name="Line 3" d="M20,2H0V-2H20Z" transform="translate(7.5 4.5)" fill="#fff"/>
+      <g id="Group_762" data-name="Group 762" transform="translate(0.111)">
+        <path id="Line_2" data-name="Line 2" d="M1.414,22.414l-2.828-2.828,21-21,2.828,2.828Z" transform="translate(4.389 4.5)" fill="#fff"/>
+        <path id="Line_4" data-name="Line 4" d="M2,17H-2V0H2Z" transform="translate(25.389 3.5)" fill="#fff"/>
+      </g>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,12 @@
+<svg id="Icons" xmlns="http://www.w3.org/2000/svg" width="49.667" height="49.667" viewBox="0 0 49.667 49.667">
+  <g id="Rounded" transform="translate(0)">
+    <g id="Content">
+      <g id="_-Round-_-Content-_-add" data-name="-Round-/-Content-/-add">
+        <g id="Group_24" data-name="Group 24">
+          <path id="Path" d="M0,0H49.667V49.667H0Z" fill="none" fill-rule="evenodd"/>
+          <path id="_Icon-Color" data-name="🔹Icon-Color" d="M31.9,21.556H21.556V31.9a2.069,2.069,0,1,1-4.139,0V21.556H7.069a2.069,2.069,0,1,1,0-4.139H17.417V7.069a2.069,2.069,0,1,1,4.139,0V17.417H31.9a2.069,2.069,0,0,1,0,4.139Z" transform="translate(5.347 5.347)" fill="#1d1d1d" fill-rule="evenodd"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
